@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Shane
+
+- Hacker building a hacker with deep learning.
+- Working on [@phreakAI](https://github.com/phreakAI)
 
 <!--
 **SJCaldwell/sjcaldwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
