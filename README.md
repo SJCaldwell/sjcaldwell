@@ -1,6 +1,6 @@
 ### Hi, I'm Shane
 
-- Hacker building a hacker with deep learning.
+- Hacker training neural nets to hack.
 - Working on [@phreakAI](https://github.com/phreakAI)
 
 <!--
