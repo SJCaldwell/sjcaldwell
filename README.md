@@ -1,7 +1,6 @@
 ### Hi, I'm Shane
 
-- Hacker training neural nets to hack.
-- Working on [@phreakAI](https://github.com/phreakAI)
+- Pentester training neural nets to hack.
 
 <!--
 **SJCaldwell/sjcaldwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
