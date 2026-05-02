@@ -1,6 +1,6 @@
 ### Hi, I'm Shane
 
-- Pentester training neural nets to hack.
+- Working on [scalable oversight of offensive security agents](https://hackbot.dad/writing/no-autonomy-without-scalable-oversight/): judge models, RL, and synthetic data. 
 
 <!--
 **SJCaldwell/sjcaldwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
